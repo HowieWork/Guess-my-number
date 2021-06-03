@@ -4,7 +4,7 @@
 
 ## BRIEF
 
-A simple guess number game | [**DEMO**](https://howiework.github.io/)
+A simple guess number game | [**DEMO**](https://howiework.github.io/Guess-my-number/)
 
 ## KEYWORDS
 
