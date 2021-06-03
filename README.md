@@ -8,12 +8,19 @@ A simple guess number game | [**DEMO**](https://howiework.github.io/Guess-my-num
 
 ## KEYWORDS
 
-DOM
+DOM, JavaScript, Events
 
-## RULES
+## FEATURES
 
-1. Guess a number between 1-20; Full score is 20;
+### How To Play
+
+1. Simply INPUT your guess between 1-20;
+2. Click CHECK to see result;
+3. Click AGAIN to reset the game.
+
+### About Scores
+
+1. Full score is 20;
 2. A wrong guess will lose one point;
-3. The highest score will be recorded;
-4. Click AGAIN to reset the game;
-5. Highest score will be lost if refreshing the page.
+3. The highest score will be updated accordingly;
+4. The highest score will be lost when refreshing the page.
